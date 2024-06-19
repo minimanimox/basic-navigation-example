@@ -94,7 +94,6 @@ aside {
     background-color: #5c5b5b;
     text-align: center;
     line-height: 2.5;
-    margin: 0; /* 여백 제거 */
 }
 
 td h2 {
